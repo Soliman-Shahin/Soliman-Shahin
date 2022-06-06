@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm soliman samy soliman shahin</h1>
+<h1 align="center">Hi 👋, I'm Soliman Samy Soliman Shahin</h1>
 <h3 align="center">A passionate Full Stack developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soliman-shahin&label=Profile%20views&color=0e75b6&style=flat" alt="soliman-shahin" /> </p>
+- 🌱 I’m currently learning **design patterns, redux**
 
-- 💬 Ask me about **node.js, angular, mongodb, express, mySql**
+- 💬 Ask me about **node.js, angular, mongodb, express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@solimanshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@solimanshahin" height="30" width="40" /></a>
+<a href="https://twitter.com/solimanshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solimanshahin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soliman-shahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soliman-shahin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13538250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13538250" height="30" width="40" /></a>
 <a href="https://fb.com/solimanshahin94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solimanshahin94" height="30" width="40" /></a>
