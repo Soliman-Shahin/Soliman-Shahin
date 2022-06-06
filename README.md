@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soliman Samy Soliman Shahin</h1>
+<h1 align="center">Hi 👋, I'm Soliman Samy Shahin</h1>
 <h3 align="center">A passionate Full Stack developer from Egypt</h3>
 
 - 🌱 I’m currently learning **design patterns, redux**
